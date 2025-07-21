@@ -1,0 +1,67 @@
+/* index.css – Global Styles */
+:root {
+  --font-main: 'Inter', sans-serif;
+  --bg-light: #ffffff;
+  --bg-dark: #1e1e1e;
+  --text-light: #1a1a1a;
+  --text-dark: #f5f5f5;
+  --primary: #0073e6;
+  --border: #ddd;
+}
+
+[data-theme="dark"] {
+  --bg-color: var(--bg-dark);
+  --text-color: var(--text-dark);
+}
+
+[data-theme="light"] {
+  --bg-color: var(--bg-light);
+  --text-color: var(--text-light);
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-main);
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+a {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  padding: 1rem;
+  border-bottom: 1px solid var(--border);
+  background-color: rgba(0, 0, 0, 0.02);
+  border-radius: 4px;
+  margin-bottom: 0.75rem;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+button.toggle-theme {
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: var(--primary);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

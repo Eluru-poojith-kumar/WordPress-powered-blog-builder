@@ -1,0 +1,9 @@
+{
+  "apiVersion": 2,
+  "name": "blogbuilder/post-grid",
+  "title": "Post Grid",
+  "category": "widgets",
+  "icon": "grid-view",
+  "editorScript": "file:./index.js",
+  "style": "file:./style.css"
+}
