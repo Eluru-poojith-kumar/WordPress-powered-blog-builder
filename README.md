@@ -12,9 +12,19 @@ This project is a modern WordPress-powered blog builder that includes:
 
  Screenshots
 
-React Dashboard Screenshot : <img width="1878" height="912" alt="image" src="https://github.com/user-attachments/assets/cb5a03f0-3408-427f-9d74-562fb214cef5" />
-Termianl : <img width="661" height="387" alt="image" src="https://github.com/user-attachments/assets/a88d7d81-22c7-4787-a89a-851475057501" />
-Wp dashboard: <img width="1212" height="498" alt="image" src="https://github.com/user-attachments/assets/889269a2-d018-465b-a6c2-d206d541e988" />
+React Dashboard Screenshot :
+
+<img width="1878" height="912" alt="image" src="https://github.com/user-attachments/assets/cb5a03f0-3408-427f-9d74-562fb214cef5" />
+
+
+Termianl :
+
+<img width="661" height="387" alt="image" src="https://github.com/user-attachments/assets/a88d7d81-22c7-4787-a89a-851475057501" />
+
+
+Wp dashboard:
+
+<img width="1212" height="498" alt="image" src="https://github.com/user-attachments/assets/889269a2-d018-465b-a6c2-d206d541e988" />
 
 
 
